@@ -1,0 +1,46 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Chat",
+    "memory": "Memory Base",
+    "billing": "Billing",
+    "settings": "Settings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "submit": "Submit"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "createAccount": "Create an Account",
+    "forgotPassword": "Forgot Password?",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "secureLogin": "Secure Login via OWASP Standards"
+  },
+  "chat": {
+    "placeholder": "Ask something utilizing your infinite memory...",
+    "thinking": "Thinking...",
+    "contextUsed": "Context Used"
+  },
+  "memory": {
+    "title": "Knowledge Graph & Files",
+    "upload": "Upload Document",
+    "description": "These files are vectorized and stored in SurrealDB for retrieval.",
+    "files": "Ingested Files",
+    "noFiles": "No files uploaded yet."
+  },
+  "billing": {
+    "currentBalance": "Current Credits",
+    "history": "Transaction History",
+    "addCredits": "Add Credits",
+    "date": "Date",
+    "amount": "Amount",
+    "description": "Description",
+    "status": "Status"
+  }
+}

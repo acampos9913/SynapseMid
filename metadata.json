@@ -1,0 +1,5 @@
+{
+  "name": "SynapseMid",
+  "description": "An infinite memory LLM interface with context management, secure authentication, and billing tracking. Built for scalability using SurrealDB architecture patterns.",
+  "requestFramePermissions": []
+}
